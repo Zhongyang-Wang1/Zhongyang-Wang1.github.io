@@ -16,7 +16,7 @@ I am a Ph.D. student enrolled in a combined master's and doctoral program superv
 # <i><span style="color:red;">News</span></i>
 * **<span style="color:red;">[Paper:]</span>** Our paper "[Hierarchical Multi-modal Transformer for Cross-modal Long Document Classification
 ](https://arxiv.org/abs/2407.10105) is now available’’.(June 2024)
-* 
+  
 * **<span style="color:red;">[Paper:]</span>** Our paper "[Teaching with Uncertainty: Unleashing the Potential of Knowledge Distillation in Object Detection](https://arxiv.org/pdf/2406.06999) is now available’’.(June 2024)
   
 * **<span style="color:red;">[Paper:]</span>** Our paper "[Multi-modal long document classification based on Hierarchical Prompt and Multi-modal Transformer](https://www.sciencedirect.com/science/article/pii/S0893608024002466)" has been accepted by Neural Networks. (April 2024)
