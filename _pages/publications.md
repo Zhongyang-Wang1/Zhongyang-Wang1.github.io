@@ -31,7 +31,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 ## Publications
 
-# 2024
+**<span style="color:green;">[2024:]</span>**
 
 - **Jipeng Guo**, Yanfeng Sun*, Junbin Gao, Yongli Hu, and Baocai Yin. "Logarithmic Schatten-p Norm Minimization for Tensorial Multi-view Subspace Clustering," _**IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**_, 2023, 45(3): 3396-3410. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9786656)
  
