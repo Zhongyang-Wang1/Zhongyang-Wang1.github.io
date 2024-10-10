@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
+* Syllabus for College Computer, Beijing University of Chemical Technology, Autumn, (for undergraduate students).
+* Computing Methods, Beijing University of Chemical Technology, Spring, (for undergraduate students).
+* Discrete Mathematics, Beijing University of Chemical Technology, Autumn, (for undergraduate students).
