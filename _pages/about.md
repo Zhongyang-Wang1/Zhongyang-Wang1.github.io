@@ -26,7 +26,6 @@ I received my PH.D degree (Control Science and Engineering) with Beijing Municip
 # <i><span style="color:red;">News</span></i>
 * **<span style="color:green;">[Congratulation:]</span>** I will serve as a reviewer for ICLR 2025. (September 2024)
   
-* **<span style="color:red;">[Paper:]</span>** Our paper "[Teaching with Uncertainty: Unleashing the Potential of Knowledge Distillation in Object Detection](https://arxiv.org/pdf/2406.06999) is now available’’.(June 2024)
+* **<span style="color:red;">[Paper:]</span>** Our paper "[DGNN: Decoupled Graph Neural Networks with Structural Consistency between Attribute and Graph Embedding Representations]([https://arxiv.org/pdf/2406.06999](https://arxiv.org/abs/2401.15584)) is now available’’.(January 2024)
   
-* **<span style="color:red;">[Paper:]</span>** Our paper "[Multi-modal long document classification based on Hierarchical Prompt and Multi-modal Transformer](https://www.sciencedirect.com/science/article/pii/S0893608024002466)" has been accepted by Neural Networks. (April 2024)
 
