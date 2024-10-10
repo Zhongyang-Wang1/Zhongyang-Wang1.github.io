@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+More [Gooogle Scholar](https://scholar.google.com/citations?user=iynZISwAAAAJ&hl=zh-CN&oi=ao)
 
 Preprints
 ======
@@ -29,7 +30,7 @@ Preprints
 - Soft Association for Enhanced Graph Neural Networks: Balancing Topology and Attributes Interference, _IEEE Transactions on Cybernetics_, 2024, under review (三作).
 
 
- Publications [Gooogle Scholar](https://scholar.google.com/citations?user=iynZISwAAAAJ&hl=zh-CN&oi=ao)
+ Publications
  ======
 
 
