@@ -31,10 +31,15 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 ## Publications
 
-**<span style="color:green;">[2024:]</span>**
+**<span style="color:green;">[2024]</span>**
 
+**<span style="color:green;">[2023]</span>**
 - **Jipeng Guo**, Yanfeng Sun*, Junbin Gao, Yongli Hu, and Baocai Yin. "Logarithmic Schatten-p Norm Minimization for Tensorial Multi-view Subspace Clustering," _**IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**_, 2023, 45(3): 3396-3410. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9786656)
- 
+
+- **Jipeng Guo**, Yanfeng Sun*, Junbin Gao, Yongli Hu, and Baocai Yin. "Robust discriminant analysis with feature selective projection and between-classes structural incoherence," _**Digital Signal Processing**_, 2023, 134: 103896. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S1051200422005139)
+
+
+**<span style="color:green;">[2022]</span>**
 - **Jipeng Guo**, Yanfeng Sun*, Junbin Gao, Yongli Hu, and Baocai Yin. "Multi-attribute Subspace Clustering via Auto-weighted Tensor Nuclear Norm Minimization," _**IEEE Transactions on Image Processing (TIP)**_, 2022, 31: 7191-7205. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9944936)
 
 - **Jipeng Guo**, Yanfeng Sun*, Junbin Gao, Yongli Hu, and Baocai Yin. "Rank Consistency Induced Multi-view Subspace Clustering via Low-rank Matrix Factorization," _**IEEE Transactions on Neural Networks and Learning System (TNNLS)**_, 2022, 33(7): 3157-3170. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9410428)
@@ -43,7 +48,8 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Jiyi Zhao#, **Jipeng Guo#**, Yanfeng Sun*, Junbin Gao, Yongli Hu, and Baocai Yin. "Adaptive Graph Convolutional Clustering Network with Optimal Probabilistic Graph," _**Neural Networks (NN)**_, 2022, 156: 271-284. (#共同一作) [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0893608022003653)
 
-- **Jipeng Guo**, Yanfeng Sun*, Junbin Gao, Yongli Hu, and Baocai Yin. "Robust discriminant analysis with feature selective projection and between-classes structural incoherence," _**Digital Signal Processing**_, 2023, 134: 103896. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S1051200422005139)
+**<span style="color:green;">[Before 2021]</span>**
+
 
 -  **Jipeng Guo**, Tengxiao Yin, Tianxiang Zhao, Jiayi Zhao, Yanfeng Sun, Junbin Gao, and Youqing Wang*. "Improved attributed graph clustering with representation and structure augmentation," _**In Proceedings of International Joint Conference on Neural Networks (IJCNN)**_, 2024. (CCF-C) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10650771)
 
