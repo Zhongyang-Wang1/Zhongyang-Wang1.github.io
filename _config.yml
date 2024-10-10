@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Tengfei Liu"
+title                    : "Jipeng Guo"
 title_separator          : "-"
-name                     : &name "Tengfei Liu (刘腾飞)"
-description              : &description "PhD student from Beijing University of Technology"
-url                      : https://tengfeiliu966.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Jipeng Guo (郭继鹏)"
+description              : &description "PhD|CAAI Member"
+url                      : https://JipengGuo95.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "TengfeiLiu966/tengfeiliu966.github.io"
+repository               : "JipengGuo95/JipengGuo95.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
