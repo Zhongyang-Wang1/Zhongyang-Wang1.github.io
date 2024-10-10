@@ -11,6 +11,8 @@ I am a lecturer in the College of Information Science and Technology, Beijing Un
 
 I received my PH.D degree (Control Science and Engineering) with Beijing Municipal Key Laboratory of Multimedia and Intelligent Software Technology (led by Prof. [Baocai Yin (尹宝才)](https://yanzhao.bjut.edu.cn/info/1434/11431.htm)) at Beijing University of Technology (BJUT), China, in 2023. Prof. [Yanfeng Sun (孙艳丰)](https://sist.bjut.edu.cn/info/1403/2479.htm) is my PH.D advisor. I am also co-supervised by Prof. [Junbin Gao (高俊斌)](https://www.sydney.edu.au/business/about/our-people/academic-staff/junbin-gao.html) from University of Sydney.
 
+Email: guojipeng@buct.edu.cn
+
 ## Representative Publications
 - **Jipeng Guo**, Yanfeng Sun*, Junbin Gao, Yongli Hu, and Baocai Yin. "Logarithmic Schatten-p Norm Minimization for Tensorial Multi-view Subspace Clustering," _**IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**_, 2023, 45(3): 3396-3410. (**CCF-A**, **中科院一区**) [[PDF]](https://ieeexplore.ieee.org/abstract/document/9786656)
  
