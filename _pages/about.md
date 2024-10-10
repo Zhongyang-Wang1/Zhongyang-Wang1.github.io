@@ -19,6 +19,12 @@ I received my PH.D degree (Control Science and Engineering) with Beijing Municip
 - Graph Representation Learning and Its Applications
 - Industrial Big Data Analysis and Fault Diagnosis
 
+# <i><span style="color:red;">News</span></i>
+* **<span style="color:green;">[Congratulation:]</span>** I will serve as a reviewer for ICLR 2025. (September 2024)
+  
+* **<span style="color:red;">[Paper:]</span>** Our paper "[DGNN: Decoupled Graph Neural Networks with Structural Consistency between Attribute and Graph Embedding Representations]([https://arxiv.org/pdf/2406.06999](https://arxiv.org/abs/2401.15584)) is now available’’.(January 2024)
+  
+
 ## Representative Publications
 - **Jipeng Guo**, Yanfeng Sun*, Junbin Gao, Yongli Hu, and Baocai Yin. "Logarithmic Schatten-p Norm Minimization for Tensorial Multi-view Subspace Clustering," _**IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**_, 2023, 45(3): 3396-3410. (**CCF-A**, **中科院一区**) [[PDF]](https://ieeexplore.ieee.org/abstract/document/9786656)
  
@@ -31,9 +37,4 @@ I received my PH.D degree (Control Science and Engineering) with Beijing Municip
 
 - Yachao Yang, Yanfeng Sun*, Shaofan Wang, **Jipeng Guo**, Junbin Gao, Fujiao Ju, and Baocai Yin. "Graph Neural Networks with Soft Association between Topology and Attribute," _**In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)**_, 2024, 9260-9268. (**Oral**, **CCF-A**) [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/28778) [[Code]](https://github.com/wwwfadecom/GNN-SATA) 
 
-# <i><span style="color:red;">News</span></i>
-* **<span style="color:green;">[Congratulation:]</span>** I will serve as a reviewer for ICLR 2025. (September 2024)
-  
-* **<span style="color:red;">[Paper:]</span>** Our paper "[DGNN: Decoupled Graph Neural Networks with Structural Consistency between Attribute and Graph Embedding Representations]([https://arxiv.org/pdf/2406.06999](https://arxiv.org/abs/2401.15584)) is now available’’.(January 2024)
-  
 
