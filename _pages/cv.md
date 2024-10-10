@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-# Reviewer for Journals
+## Reviewer for Journals
 
 - IEEE Transactions on Cybernetics
 - IEEE Transactions on Circuits and Systems for Video Technology
@@ -17,6 +17,6 @@ redirect_from:
 - Intelligent Data Analysis
 - 计算机工程
 
-# Reviewer for Conferences
+## Reviewer for Conferences
 - The Thirteenth International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2025)) 2025
 - International Conference on Pattern Recognition 2024
