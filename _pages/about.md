@@ -24,7 +24,7 @@ I received my PH.D degree (Control Science and Engineering) with Beijing Municip
 - Yachao Yang, Yanfeng Sun*, Shaofan Wang, **Jipeng Guo**, Junbin Gao, Fujiao Ju, and Baocai Yin. "Graph Neural Networks with Soft Association between Topology and Attribute," _**In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)**_, 2024, 9260-9268. (**Oral**, **CCF-A**) [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/28778) [[Code]](https://github.com/wwwfadecom/GNN-SATA) 
 
 # <i><span style="color:red;">News</span></i>
-* **<span style="color:green;">[Congratulation:]</span>** I will serve as a reviewer for ICLR 2025.(September 2024)
+* **<span style="color:green;">[Congratulation:]</span>** I will serve as a reviewer for ICLR 2025. (September 2024)
   
 * **<span style="color:red;">[Paper:]</span>** Our paper "[Teaching with Uncertainty: Unleashing the Potential of Knowledge Distillation in Object Detection](https://arxiv.org/pdf/2406.06999) is now available’’.(June 2024)
   
