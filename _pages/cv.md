@@ -15,7 +15,7 @@ redirect_from:
 - Expert Systems With Applications
 - Information Sciences
 - Intelligent Data Analysis
-- 计算机工程
+- 计算机科学
 
 ## Reviewer for Conferences
 - The Thirteenth International Conference on Learning Representations ([ICLR](https://iclr.cc/Conferences/2025)) 2025
