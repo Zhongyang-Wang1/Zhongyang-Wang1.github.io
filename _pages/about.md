@@ -10,9 +10,14 @@ redirect_from:
 I am a lecturer in the College of Information Science and Technology, Beijing University of Chemical Technology (BUCT), Beijing. And, I am currently working as a postdoctoral researcher, supervised by Prof. [Youqing Wang (王友清)](https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm). 
 I received my PH.D degree (Control Science and Engineering) with Beijing Municipal Key Laboratory of Multimedia and Intelligent Software Technology (led by Prof. [Baocai Yin (尹宝才)](https://yanzhao.bjut.edu.cn/info/1434/11431.htm)) at Beijing University of Technology (BJUT), China, in 2023. Prof. [Yanfeng Sun (孙艳丰)](https://sist.bjut.edu.cn/info/1403/2479.htm) is my PH.D advisor. I am also co-supervised by Prof. [Junbin Gao (高俊斌)](https://www.sydney.edu.au/business/about/our-people/academic-staff/junbin-gao.html) from University of Sydney.
 
-## Datasets
-- Hierarchical Graph Convolutional Network for Structured Long Document Classification[[Link]](https://drive.google.com/drive/folders/1GAQJ0oWRObOuFIbTeVE8vFI0zBkRG1pa)
-- Hierarchical Multi-modal Prompt Transformer for Multi-modal Long Document Classification [[Link]](https://drive.google.com/drive/folders/1759nBGt7J0ZkUK8-jSbAys9_SANQVC-E)
+## Representative Publications
+- **Jipeng Guo**, Yanfeng Sun*, Junbin Gao, Yongli Hu, and Baocai Yin. "Logarithmic Schatten-p Norm Minimization for Tensorial Multi-view Subspace Clustering," _**IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**_, 2023, 45(3): 3396-3410. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9786656)
+ 
+- **Jipeng Guo**, Yanfeng Sun*, Junbin Gao, Yongli Hu, and Baocai Yin. "Multi-attribute Subspace Clustering via Auto-weighted Tensor Nuclear Norm Minimization," _**IEEE Transactions on Image Processing (TIP)**_, 2022, 31: 7191-7205. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9944936)
+
+- **Jipeng Guo**, Yanfeng Sun*, Junbin Gao, Yongli Hu, and Baocai Yin. "Rank Consistency Induced Multi-view Subspace Clustering via Low-rank Matrix Factorization," _**IEEE Transactions on Neural Networks and Learning System (TNNLS)**_, 2022, 33(7): 3157-3170. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9410428)
+
+- **Jipeng Guo**, Yanfeng Sun*, Junbin Gao, Yongli Hu, and Baocai Yin. "Robust Adaptive Linear Discriminant Analysis with Bidirectional Reconstruction Constraint," _**ACM Transactions on Knowledge Discovery from Data (TKDD)**_, 2020, 14(6): 75. [[PDF]](https://dl.acm.org/doi/abs/10.1145/3409478)
 
 # <i><span style="color:red;">News</span></i>
 * **<span style="color:red;">[Paper:]</span>** Our paper "[Hierarchical Multi-modal Transformer for Cross-modal Long Document Classification
