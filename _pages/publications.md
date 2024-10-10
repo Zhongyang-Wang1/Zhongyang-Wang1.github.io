@@ -11,8 +11,7 @@ redirect_from:
 
 You can also find more articles on [Google Scholar](https://scholar.google.com/citations?user=iynZISwAAAAJ&hl=zh-CN&oi=ao).
 
-Preprints
-======
+## Preprints
 - 基于双跨视相关性检测的多视子空间聚类, 2024, 计算机工程, 二审 (一作).
 
 - Globality Meets Locality: an Anchor Graph Collaborative Learning Framework for Fast Multi-view Subspace Clustering, 2024, under review (一作).
@@ -30,9 +29,7 @@ Preprints
 - Soft Association for Enhanced Graph Neural Networks: Balancing Topology and Attributes Interference, _IEEE Transactions on Cybernetics_, 2024, under review (三作).
 
 
- Publications
- ======
-
+## Publications
 
 - **Jipeng Guo**, Yanfeng Sun*, Junbin Gao, Yongli Hu, and Baocai Yin. "Logarithmic Schatten-p Norm Minimization for Tensorial Multi-view Subspace Clustering," _**IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**_, 2023, 45(3): 3396-3410. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9786656)
  
