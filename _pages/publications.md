@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-More [Gooogle Scholar](https://scholar.google.com/citations?user=iynZISwAAAAJ&hl=zh-CN&oi=ao)
+You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=iynZISwAAAAJ&hl=zh-CN&oi=ao).
 
 Preprints
 ======
