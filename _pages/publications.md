@@ -62,9 +62,7 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Jiayi Zhao, Yanfeng Sun*, **Jipeng Guo**, Junbin Gao, and Baocai Yin. "Robust graph convolutional clustering with adaptive graph learning," _**In Proceedings of International Joint Conference on Neural Networks (IJCNN)**_, 2022, 1-8. (CCF-C) [[PDF]](https://ieeexplore.ieee.org/abstract/document/9892395)
 
-**<span style="color:green;">[Before 2021]</span>**
-
-- **Jipeng Guo**, Yanfeng Sun*, Junbin Gao, Yongli Hu, and Baocai Yin. "Robust Adaptive Linear Discriminant Analysis with Bidirectional Reconstruction Constraint," _**ACM Transactions on Knowledge Discovery from Data (TKDD)**_, 2020, 14(6): 75. [[PDF]](https://dl.acm.org/doi/abs/10.1145/3409478)
+**<span style="color:green;">[2021]</span>**
 
 - **Jipeng Guo**, Yanfeng Sun*, Junbin Gao, Yongli Hu, and Baocai Yin. "Low-rank Representation on Product Grassmann Manifolds for Multi-view Subspace Clustering," _**In Proceedings of International Conference on Pattern Recognition (ICPR)**_, 2021, 907-914. (CCF-C) [[PDF]](https://ieeexplore.ieee.org/abstract/document/9412242)
 
@@ -72,3 +70,6 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 - Jie Wang, Yanfeng Sun*, **Jipeng Guo**, Yongli Hu, and Baocai Yin. "Attributed Non-negative Matrix Multi-factorization for Data Representation," _**In Proceedings of Pattern Recognition and Computer Vision: 4th Chinese Conference (PRCV)**_, 2021, 66-77. (CCF-C) [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-88013-2_6)
 
+**<span style="color:green;">[2020]</span>**
+
+- **Jipeng Guo**, Yanfeng Sun*, Junbin Gao, Yongli Hu, and Baocai Yin. "Robust Adaptive Linear Discriminant Analysis with Bidirectional Reconstruction Constraint," _**ACM Transactions on Knowledge Discovery from Data (TKDD)**_, 2020, 14(6): 75. [[PDF]](https://dl.acm.org/doi/abs/10.1145/3409478)
