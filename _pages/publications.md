@@ -32,6 +32,9 @@ You can also find more articles on [Google Scholar](https://scholar.google.com/c
 
 **<span style="color:green;">[2024]</span>**
 
+-  Mingliang Cui, Xin Ma, Youqing Wang*, **Jipeng Guo**, and Tongze Hou. "Fast Sparse Dynamic Matrix Estimation Method with Differential Information for Industrial Process Monitoring," _**IEEE Transactions on Control
+Systems Technology**_, 2024.
+
 -  **Jipeng Guo**, Tengxiao Yin, Tianxiang Zhao, Jiayi Zhao, Yanfeng Sun, Junbin Gao, and Youqing Wang*. "Improved attributed graph clustering with representation and structure augmentation," _**In Proceedings of International Joint Conference on Neural Networks (IJCNN)**_, 2024. (CCF-C) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10650771)
 
 - Yachao Yang, Yanfeng Sun*, Shaofan Wang, **Jipeng Guo**, Junbin Gao, Fujiao Ju, and Baocai Yin. "Graph Neural Networks with Soft Association between Topology and Attribute," _**In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)**_, 2024, 9260-9268. (**Oral**, **CCF-A**) [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/28778) [[Code]](https://github.com/wwwfadecom/GNN-SATA) 
