@@ -57,7 +57,7 @@ Systems Technology**_, 2024.
 
 - **Jipeng Guo**, Yanfeng Sun*, Junbin Gao, Yongli Hu, and Baocai Yin. "Multi-attribute Subspace Clustering via Auto-weighted Tensor Nuclear Norm Minimization," _**IEEE Transactions on Image Processing (TIP)**_, 2022, 31: 7191-7205. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9944936)
 
-- **Jipeng Guo**, Yanfeng Sun*, Junbin Gao, Yongli Hu, and Baocai Yin. "Rank Consistency Induced Multi-view Subspace Clustering via Low-rank Matrix Factorization," _**IEEE Transactions on Neural Networks and Learning System (TNNLS)**_, 2022, 33(7): 3157-3170. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9410428)
+- **Jipeng Guo**, Yanfeng Sun*, Junbin Gao, Yongli Hu, and Baocai Yin. "Rank Consistency Induced Multi-view Subspace Clustering via Low-rank Matrix Factorization," _**IEEE Transactions on Neural Networks and Learning System (TNNLS)**_, 2022, 33(7): 3157-3170. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9410428) [[Poster]](files/RC-MSC_TNNLS_Poster.pdf)
 
 - Jiyi Zhao#, **Jipeng Guo#**, Yanfeng Sun*, Junbin Gao, Yongli Hu, and Baocai Yin. "Adaptive Graph Convolutional Clustering Network with Optimal Probabilistic Graph," _**Neural Networks (NN)**_, 2022, 156: 271-284. (#共同一作) [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0893608022003653)
 
